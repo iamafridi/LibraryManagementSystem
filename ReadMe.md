@@ -1,5 +1,5 @@
 ************************************************************************* 
-                            OVERVIEW
+                                  OVERVIEW
 *************************************************************************
 I have created this Library Management System using Java and it follows OOPs principles.
 The system allows us to manage a collection of books, enabling actions like adding, 
@@ -109,7 +109,7 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
-                           CONCLUSION
+                             CONCLUSION
 *************************************************************************
 In conclusion, this Java Library Management System project effectively demonstrates the 
 key principles of Object-Oriented Programming (OOP). This system manages books in a 
