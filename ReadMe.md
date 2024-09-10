@@ -10,6 +10,9 @@ class for user-related behavior. Methods like borrowBook() are implemented diffe
 for Student and Faculty but are called in the same way. By using interfaces like Searchable, 
 new types of searches can be added easily in the future
 
+![LibraryManagementSystem](https://github.com/user-attachments/assets/703bdbeb-6505-4f73-9d2f-cb8984276e76)
+
+
 *************************************************************************
                        Run the Application
 *************************************************************************
