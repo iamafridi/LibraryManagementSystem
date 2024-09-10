@@ -47,7 +47,22 @@ This project demonstrates several OOP concepts:
 
 ## Project Structure
 
-Library Management System/ ├── Book.java ├── BookNotFoundException.java ├── Faculty.java ├── InvalidBookException.java ├── Library.java ├── LibraryManagementSystem.java ├── LibraryTest.java ├── LibraryUser.java ├── ReadMe.md ├── Searchable.java ├── Student.java └── lib/ ├── junit-4.13.2.jar └── hamcrest-core-1.3.jar
+Library Management System/
+ ├── Book.java
+ ├── BookNotFoundException.java
+ ├── Faculty.java
+ ├── InvalidBookException.java
+ ├── Library.java
+ ├── LibraryManagementSystem.java
+ ├── LibraryTest.java
+ ├── LibraryUser.java
+ ├── ReadMe.md
+ ├── Searchable.java
+ ├── Student.java
+ 
+ └── lib/
+ ├── junit-4.13.2.jar
+ └── hamcrest-core-1.3.jar
 
 
 ## How to Compile and Run
